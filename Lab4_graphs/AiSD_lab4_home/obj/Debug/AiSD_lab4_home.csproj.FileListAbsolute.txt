@@ -1,0 +1,10 @@
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\bin\Debug\AiSD_lab4_home.exe.config
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\bin\Debug\AiSD_lab4_home.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\bin\Debug\AiSD_lab4_home.pdb
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\bin\Debug\Graphs.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\bin\Debug\TestSet.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\obj\Debug\AiSD_lab4_home.csproj.AssemblyReference.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\obj\Debug\AiSD_lab4_home.csproj.CoreCompileInputs.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\obj\Debug\AiSD_lab.FCFC9533.Up2Date
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\obj\Debug\AiSD_lab4_home.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_lab4_home\AiSD_lab4_home\obj\Debug\AiSD_lab4_home.pdb

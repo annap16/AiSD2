@@ -1,0 +1,9 @@
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_dynamic\AiSD_dynamic\bin\Debug\AiSD_dynamic.exe.config
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_dynamic\AiSD_dynamic\bin\Debug\AiSD_dynamic.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_dynamic\AiSD_dynamic\bin\Debug\AiSD_dynamic.pdb
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_dynamic\AiSD_dynamic\bin\Debug\TestSet.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_dynamic\AiSD_dynamic\obj\Debug\AiSD_dynamic.csproj.AssemblyReference.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_dynamic\AiSD_dynamic\obj\Debug\AiSD_dynamic.csproj.CoreCompileInputs.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_dynamic\AiSD_dynamic\obj\Debug\AiSD_dyn.9054B0FA.Up2Date
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_dynamic\AiSD_dynamic\obj\Debug\AiSD_dynamic.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD_dynamic\AiSD_dynamic\obj\Debug\AiSD_dynamic.pdb

@@ -1,0 +1,10 @@
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\bin\Debug\AiSDLab6Punktowane.exe.config
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\bin\Debug\AiSDLab6Punktowane.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\bin\Debug\AiSDLab6Punktowane.pdb
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\bin\Debug\Graphs.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\bin\Debug\TestSet.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\obj\Debug\AiSDLab6Punktowane.csproj.AssemblyReference.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\obj\Debug\AiSDLab6Punktowane.csproj.CoreCompileInputs.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\obj\Debug\AiSDLab6.9DDD5FF4.Up2Date
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\obj\Debug\AiSDLab6Punktowane.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSDLab6Punktowane\AiSDLab6Punktowane\obj\Debug\AiSDLab6Punktowane.pdb

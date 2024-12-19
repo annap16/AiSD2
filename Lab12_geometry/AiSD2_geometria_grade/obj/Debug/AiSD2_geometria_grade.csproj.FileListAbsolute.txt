@@ -1,0 +1,9 @@
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_geometria_grade\AiSD2_geometria_grade\bin\Debug\AiSD2_geometria_grade.exe.config
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_geometria_grade\AiSD2_geometria_grade\bin\Debug\AiSD2_geometria_grade.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_geometria_grade\AiSD2_geometria_grade\bin\Debug\AiSD2_geometria_grade.pdb
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_geometria_grade\AiSD2_geometria_grade\bin\Debug\TestSet.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_geometria_grade\AiSD2_geometria_grade\obj\Debug\AiSD2_geometria_grade.csproj.AssemblyReference.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_geometria_grade\AiSD2_geometria_grade\obj\Debug\AiSD2_geometria_grade.csproj.CoreCompileInputs.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_geometria_grade\AiSD2_geometria_grade\obj\Debug\AiSD2_ge.DCE88BAB.Up2Date
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_geometria_grade\AiSD2_geometria_grade\obj\Debug\AiSD2_geometria_grade.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_geometria_grade\AiSD2_geometria_grade\obj\Debug\AiSD2_geometria_grade.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_zadanie_dowolne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC556B6-E3A6-477A-9552-D9B5CD0E78C4}|AiSD2_zadanie_dowolne\\AiSD2_zadanie_dowolne.csproj|c:\\users\\annap\\desktop\\studia\\semestr 4\\aisd2\\aisd2_zadanie_dowolne\\aisd2_zadanie_dowolne\\graphcolorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC556B6-E3A6-477A-9552-D9B5CD0E78C4}|AiSD2_zadanie_dowolne\\AiSD2_zadanie_dowolne.csproj|solutionrelative:aisd2_zadanie_dowolne\\graphcolorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC556B6-E3A6-477A-9552-D9B5CD0E78C4}|AiSD2_zadanie_dowolne\\AiSD2_zadanie_dowolne.csproj|C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_zadanie_dowolne\\aisd2_zadanie_dowolne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC556B6-E3A6-477A-9552-D9B5CD0E78C4}|AiSD2_zadanie_dowolne\\AiSD2_zadanie_dowolne.csproj|solutionrelative:aisd2_zadanie_dowolne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphColorer.cs",
+              "DocumentMoniker": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_zadanie_dowolne\\AiSD2_zadanie_dowolne\\GraphColorer.cs",
+              "RelativeDocumentMoniker": "AiSD2_zadanie_dowolne\\GraphColorer.cs",
+              "ToolTip": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_zadanie_dowolne\\AiSD2_zadanie_dowolne\\GraphColorer.cs",
+              "RelativeToolTip": "AiSD2_zadanie_dowolne\\GraphColorer.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAD4v0IAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:42:16.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_zadanie_dowolne\\AiSD2_zadanie_dowolne\\Program.cs",
+              "RelativeDocumentMoniker": "AiSD2_zadanie_dowolne\\Program.cs",
+              "ToolTip": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_zadanie_dowolne\\AiSD2_zadanie_dowolne\\Program.cs",
+              "RelativeToolTip": "AiSD2_zadanie_dowolne\\Program.cs",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAYwIUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:41:05.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

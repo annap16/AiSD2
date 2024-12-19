@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD_lab4_home\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8651B08C-B60A-4547-8396-BF3AAE54C85B}|AiSD_lab4_home\\AiSD_lab4_home.csproj|c:\\users\\annap\\desktop\\studia\\semestr 4\\aisd2\\aisd_lab4_home\\aisd_lab4_home\\lab04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651B08C-B60A-4547-8396-BF3AAE54C85B}|AiSD_lab4_home\\AiSD_lab4_home.csproj|solutionrelative:aisd_lab4_home\\lab04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651B08C-B60A-4547-8396-BF3AAE54C85B}|AiSD_lab4_home\\AiSD_lab4_home.csproj|C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD_lab4_home\\aisd_lab4_home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651B08C-B60A-4547-8396-BF3AAE54C85B}|AiSD_lab4_home\\AiSD_lab4_home.csproj|solutionrelative:aisd_lab4_home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab04.cs",
+              "DocumentMoniker": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD_lab4_home\\AiSD_lab4_home\\Lab04.cs",
+              "RelativeDocumentMoniker": "AiSD_lab4_home\\Lab04.cs",
+              "ToolTip": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD_lab4_home\\AiSD_lab4_home\\Lab04.cs",
+              "RelativeToolTip": "AiSD_lab4_home\\Lab04.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAUwFsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:02:52.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD_lab4_home\\AiSD_lab4_home\\Program.cs",
+              "RelativeDocumentMoniker": "AiSD_lab4_home\\Program.cs",
+              "ToolTip": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD_lab4_home\\AiSD_lab4_home\\Program.cs",
+              "RelativeToolTip": "AiSD_lab4_home\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:02:51.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

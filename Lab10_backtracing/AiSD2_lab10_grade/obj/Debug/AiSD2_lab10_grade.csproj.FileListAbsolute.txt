@@ -1,0 +1,10 @@
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\bin\Debug\AiSD2_lab10_grade.exe.config
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\bin\Debug\AiSD2_lab10_grade.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\bin\Debug\AiSD2_lab10_grade.pdb
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\bin\Debug\Graphs.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\bin\Debug\TestSet.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\obj\Debug\AiSD2_lab10_grade.csproj.AssemblyReference.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\obj\Debug\AiSD2_lab10_grade.csproj.CoreCompileInputs.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\obj\Debug\AiSD2_la.B8B82BC3.Up2Date
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\obj\Debug\AiSD2_lab10_grade.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_lab10_grade\AiSD2_lab10_grade\obj\Debug\AiSD2_lab10_grade.pdb

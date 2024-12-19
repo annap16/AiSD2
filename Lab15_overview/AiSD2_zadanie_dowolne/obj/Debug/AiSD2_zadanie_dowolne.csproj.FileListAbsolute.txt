@@ -1,0 +1,10 @@
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\bin\Debug\AiSD2_zadanie_dowolne.exe.config
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\bin\Debug\AiSD2_zadanie_dowolne.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\bin\Debug\AiSD2_zadanie_dowolne.pdb
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\bin\Debug\Graphs.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\bin\Debug\TestSet.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\obj\Debug\AiSD2_zadanie_dowolne.csproj.AssemblyReference.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\obj\Debug\AiSD2_zadanie_dowolne.csproj.CoreCompileInputs.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\obj\Debug\AiSD2_za.E7B24C15.Up2Date
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\obj\Debug\AiSD2_zadanie_dowolne.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_zadanie_dowolne\AiSD2_zadanie_dowolne\obj\Debug\AiSD2_zadanie_dowolne.pdb

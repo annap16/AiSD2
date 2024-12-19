@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_geometria_grade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1453175A-E5B2-40A6-BE60-6F5D39A5774F}|AiSD2_geometria_grade\\AiSD2_geometria_grade.csproj|c:\\users\\annap\\desktop\\studia\\semestr 4\\aisd2\\aisd2_geometria_grade\\aisd2_geometria_grade\\lab12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1453175A-E5B2-40A6-BE60-6F5D39A5774F}|AiSD2_geometria_grade\\AiSD2_geometria_grade.csproj|solutionrelative:aisd2_geometria_grade\\lab12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1453175A-E5B2-40A6-BE60-6F5D39A5774F}|AiSD2_geometria_grade\\AiSD2_geometria_grade.csproj|C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_geometria_grade\\aisd2_geometria_grade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1453175A-E5B2-40A6-BE60-6F5D39A5774F}|AiSD2_geometria_grade\\AiSD2_geometria_grade.csproj|solutionrelative:aisd2_geometria_grade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_geometria_grade\\AiSD2_geometria_grade\\Program.cs",
+              "RelativeDocumentMoniker": "AiSD2_geometria_grade\\Program.cs",
+              "ToolTip": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_geometria_grade\\AiSD2_geometria_grade\\Program.cs",
+              "RelativeToolTip": "AiSD2_geometria_grade\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:11:06.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab12.cs",
+              "DocumentMoniker": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_geometria_grade\\AiSD2_geometria_grade\\Lab12.cs",
+              "RelativeDocumentMoniker": "AiSD2_geometria_grade\\Lab12.cs",
+              "ToolTip": "C:\\Users\\annap\\Desktop\\Studia\\Semestr 4\\AiSD2\\AiSD2_geometria_grade\\AiSD2_geometria_grade\\Lab12.cs",
+              "RelativeToolTip": "AiSD2_geometria_grade\\Lab12.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:11:05.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

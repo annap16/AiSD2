@@ -1,0 +1,9 @@
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_tekstowe_ocena\AiSD2_tekstowe_ocena\bin\Debug\AiSD2_tekstowe_ocena.exe.config
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_tekstowe_ocena\AiSD2_tekstowe_ocena\bin\Debug\AiSD2_tekstowe_ocena.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_tekstowe_ocena\AiSD2_tekstowe_ocena\bin\Debug\AiSD2_tekstowe_ocena.pdb
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_tekstowe_ocena\AiSD2_tekstowe_ocena\bin\Debug\TestSet.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_tekstowe_ocena\AiSD2_tekstowe_ocena\obj\Debug\AiSD2_tekstowe_ocena.csproj.AssemblyReference.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_tekstowe_ocena\AiSD2_tekstowe_ocena\obj\Debug\AiSD2_tekstowe_ocena.csproj.CoreCompileInputs.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_tekstowe_ocena\AiSD2_tekstowe_ocena\obj\Debug\AiSD2_te.F901F6E6.Up2Date
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_tekstowe_ocena\AiSD2_tekstowe_ocena\obj\Debug\AiSD2_tekstowe_ocena.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_tekstowe_ocena\AiSD2_tekstowe_ocena\obj\Debug\AiSD2_tekstowe_ocena.pdb

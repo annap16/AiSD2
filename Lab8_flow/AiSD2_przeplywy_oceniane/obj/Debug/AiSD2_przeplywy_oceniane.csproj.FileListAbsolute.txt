@@ -1,0 +1,10 @@
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\bin\Debug\AiSD2_przeplywy_oceniane.exe.config
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\bin\Debug\AiSD2_przeplywy_oceniane.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\bin\Debug\AiSD2_przeplywy_oceniane.pdb
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\bin\Debug\Graphs.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\bin\Debug\TestSet.dll
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\obj\Debug\AiSD2_przeplywy_oceniane.csproj.AssemblyReference.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\obj\Debug\AiSD2_przeplywy_oceniane.csproj.CoreCompileInputs.cache
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\obj\Debug\AiSD2_pr.D9226116.Up2Date
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\obj\Debug\AiSD2_przeplywy_oceniane.exe
+C:\Users\annap\Desktop\Studia\Semestr 4\AiSD2\AiSD2_przeplywy_oceniane\AiSD2_przeplywy_oceniane\obj\Debug\AiSD2_przeplywy_oceniane.pdb
